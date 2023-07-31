@@ -1,0 +1,494 @@
+[
+    {
+        "name": "Singapore Sesame Tuilles [100g]",
+        "price": "115",
+        "desc": "Thin & crispy tuilles with a butter & sesame flavour.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/da63ac12a9576871a59fa536d45ca316"
+    },
+    {
+        "name": "Eggless Choco Chip Brownie [1 Piece]",
+        "price": "105",
+        "desc": "Eggless Chocolate brownie with chocolate chips.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b6584b4759bae681703b1969f0c384a8"
+    },
+    {
+        "name": "Eggless Walnut Brownie [1 Piece]",
+        "price": "105",
+        "desc": "Eggless chocolate brownie topped with toasted walnuts.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d53b1f37316df558b222efcd039e9f73"
+    },
+    {
+        "name": "Eggless Cookie Brownie [1 Piece]",
+        "price": "105",
+        "desc": "Eggless chocolate chip brownie base, topped with a layer of chocolate chip cookie dough. Two much fun!",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/84035a935c8c280c80b268c8147c06ef"
+    },
+    {
+        "name": "Eggless Millionaire Brownie [1 Piece]",
+        "price": "110",
+        "desc": "Soft buttery caramel sandwiched between our chocolate chip brownie and layer of dark chocolate truffle.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8f43488044792d94a36e0981b54c05c9"
+    },
+    {
+        "name": "Eggless Outrageous Chocolate Brownie [1 Piece]",
+        "price": "110",
+        "desc": "Outrageous eggless brownie is loaded with chocolate and made with flax seeds and ground almonds.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Walnut Brownie [1 Piece]",
+        "price": "105",
+        "desc": "Chocolate brownie topped with toasted walnuts.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d53b1f37316df558b222efcd039e9f73"
+    },
+    {
+        "name": "Choco Chip Brownie [1 Piece]",
+        "price": "105",
+        "desc": "Chocolate brownie with chocolate chips.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b6584b4759bae681703b1969f0c384a8"
+    },
+    {
+        "name": "Cookie Brownie [1 Piece]",
+        "price": "105",
+        "desc": "Chocolate chip brownie base, topped with a layer of chocolate chip cookie dough. Two much fun!",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/84035a935c8c280c80b268c8147c06ef"
+    },
+    {
+        "name": "Overload Brownie [1 Piece]",
+        "price": "110",
+        "desc": "Chocolate brownie loaded with generous amounts of real dark chocolate.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9b4338e04c9f96314fbc56960fd389cb"
+    },
+    {
+        "name": "Millionaire Brownie [1 Piece]",
+        "price": "110",
+        "desc": "Soft buttery caramel sandwiched between our chocolate chip brownie and layer of dark chocolate truffle.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8f43488044792d94a36e0981b54c05c9"
+    },
+    {
+        "name": "Assorted Eggless Brownies Box [6 Pcs]",
+        "price": "640",
+        "desc": "An assortment of signature Theobroma eggless brownies - Walnut brownie (1), Choco Chip brownies (2), Millionaire brownie (1), Cookie brownie (1), Outrageous Brownie (1)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Assorted Eggless Brownies Box [12 Pcs]",
+        "price": "1280",
+        "desc": "An assortment of signature Theobroma eggless brownies - Walnut brownies (2), Choco Chip brownies (4), Millionaire brownies (2), Cookie brownies (2), Outrageous Brownies (2)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d70a23f7207f48474963b0c675911976"
+    },
+    {
+        "name": "Assorted Brownies Box [6 Pcs]",
+        "price": "640",
+        "desc": "An assortment of signature Theobroma brownies - Walnut brownie (1), Choco Chip brownies (2), Millionaire brownie (1), Cookie brownie (1), Overload Brownie (1)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Assorted Brownies Box [12 Pcs]",
+        "price": "1280",
+        "desc": "An assortment of signature Theobroma brownies - Walnut brownies (2), Choco Chip brownies (4), Millionaire brownies (2), Cookie brownies (2), Overload Brownies (2)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d70a23f7207f48474963b0c675911976"
+    },
+    {
+        "name": "Eggless Chocolate Orange Mousse Cake [1/2kg]",
+        "price": "625",
+        "desc": "Creamy dark chocolate mousse & our house-made fresh orange marmalade layered on moist dark chocolate sponge.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "After Nine Cake [400g]",
+        "price": "600",
+        "desc": "Mint- flavoured white chocolate Chantilly and rich dark chocolate mousse layered on the dark chocolate sponge.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b871ea2730dca2e0f510979182e86c95"
+    },
+    {
+        "name": "Chocolate Orange Mousse Cake [1/2kg]",
+        "price": "625",
+        "desc": "Creamy dark chocolate mousse & our house-made fresh orange marmalade layered on moist dark chocolate sponge.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Eggless Dutch Truffle Cake [1/2kg]",
+        "price": "575",
+        "desc": "Dark chocolate ganache with chocolate sponge.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0c71af5802733076da2d49147b595667"
+    },
+    {
+        "name": "Eggless Fresh Cream Pineapple Cake [1/2kg]",
+        "price": "650",
+        "desc": "Fresh cream cake with home made pineapple compote.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/6f46ef359dc4981ae6a0e757f1f6e434"
+    },
+    {
+        "name": "Eggless Red Velvet Cake [1/2kg]",
+        "price": "675",
+        "desc": "Red velvet sponge layered with cream cheese frosting enhanced with lime juice.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cfab1cfd6fefa5db5bbdd47ff10db686"
+    },
+    {
+        "name": "Eggless Opium Cake [1/2kg]",
+        "price": "675",
+        "desc": "A light chocolate cake topped with dark chocolate whipped cream.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/88b5656ff0190728dcb2eb606bffc6f0"
+    },
+    {
+        "name": "Chocoholic Cake [1/2kg]",
+        "price": "700",
+        "desc": "Three layers of chocolate mousse: white, milk and dark chocolate mousse layered in this crowd-favourite cake.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e24e30aee6c0bacd2b68d10b396a55e7"
+    },
+    {
+        "name": "Hazelnut Praline Mousse Cake [1/2kg]",
+        "price": "775",
+        "desc": "Homemade Hazelnut praline, chocolate mousse sandwiched between chocolate sponge cake and covered with a hazelnut chocolate glaze and toasted hazelnuts.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9fe46a2de9203dd6bf93f1167c42142b"
+    },
+    {
+        "name": "Dutch Truffle Cake [1/2kg]",
+        "price": "575",
+        "desc": "Dark chocolate ganache with chocolate sponge.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/49f9b4fb6dcbd0be4e2a2a81240dc8fe"
+    },
+    {
+        "name": "Fresh Cream Pineapple Cake [1/2kg]",
+        "price": "650",
+        "desc": "Fresh cream cake with home made pineapple compote.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/6f46ef359dc4981ae6a0e757f1f6e434"
+    },
+    {
+        "name": "Red Velvet Cake [1/2kg]",
+        "price": "675",
+        "desc": "Red velvet sponge layered with cream cheese frosting enhanced with lime juice.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cfab1cfd6fefa5db5bbdd47ff10db686"
+    },
+    {
+        "name": "Opium Cake [1/2kg]",
+        "price": "675",
+        "desc": "A light chocolate cake topped with dark chocolate whipped cream.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/88b5656ff0190728dcb2eb606bffc6f0"
+    },
+    {
+        "name": "Eggless Dutch Truffle Cake [1kg]",
+        "price": "1150",
+        "desc": "Dark chocolate ganache with chocolate sponge.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8782b12108d1d08f13509059265ba9b1"
+    },
+    {
+        "name": "Eggless Fresh Cream Pineapple Cake [1kg]",
+        "price": "1300",
+        "desc": "Fresh cream cake with home made pineapple compote.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/6f46ef359dc4981ae6a0e757f1f6e434"
+    },
+    {
+        "name": "Dutch Truffle Cake [1kg]",
+        "price": "1150",
+        "desc": "Dark chocolate ganache with chocolate sponge.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/49f9b4fb6dcbd0be4e2a2a81240dc8fe"
+    },
+    {
+        "name": "Fresh Cream Pineapple Cake [1kg]",
+        "price": "1300",
+        "desc": "Fresh cream cake with home made pineapple compote.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/6f46ef359dc4981ae6a0e757f1f6e434"
+    },
+    {
+        "name": "Chocolate Orange Mousse Pastry [1 Piece]",
+        "price": "130",
+        "desc": "Creamy dark chocolate mousse & our house-made fresh orange marmalade layered on moist dark chocolate sponge.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cc6377af026dc6378d280e12b964c8c0"
+    },
+    {
+        "name": "Eggless Dutch Truffle Pastry [1 Piece]",
+        "price": "120",
+        "desc": "Dark chocolate ganache with chocolate sponge.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f958476b81fe991a6d665a6f5cb332c9"
+    },
+    {
+        "name": "Eggless Fresh Cream Pineapple Pastry [1 Piece]",
+        "price": "135",
+        "desc": "Fresh cream cake with home made pineapple compote.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/iorqeeddj0iiwlzl9wxq"
+    },
+    {
+        "name": "Eggless Red Velvet Pastry [1 Piece]",
+        "price": "140",
+        "desc": "Red velvet sponge layered with cream cheese frosting enhanced with lime juice.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/m6zcb9uitpu4b3rtcl1w"
+    },
+    {
+        "name": "Eggless Opium Pastry [1 Piece]",
+        "price": "140",
+        "desc": "A light chocolate cake topped with dark chocolate whipped cream.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cd750ed227e65e19eea310cacc4f9b8a"
+    },
+    {
+        "name": "Chocoholic Pastry [1 Piece]",
+        "price": "145",
+        "desc": "Three layers of chocolate mousse: white, milk and dark chocolate mousse.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8b30e94570a48e6d0506b0c960ab6da4"
+    },
+    {
+        "name": "Hazelnut Praline Mousse Pastry [1 Piece]",
+        "price": "155",
+        "desc": "Homemade Hazelnut praline, chocolate mousse sandwiched between chocolate sponge cake and covered with a hazelnut chocolate glaze and toasted hazelnuts.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/v0tcnbnxbqmjv75xue8s"
+    },
+    {
+        "name": "Dutch Truffle Pastry [1 Piece]",
+        "price": "120",
+        "desc": "Dark chocolate ganache with chocolate sponge.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vs2pogcxmcg8kcm5qsn5"
+    },
+    {
+        "name": "Fresh Cream Pineapple Pastry [1 Piece]",
+        "price": "135",
+        "desc": "Fresh cream cake with home made pineapple compote.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/2e676dc88778330c25507709eecd0c49"
+    },
+    {
+        "name": "Red Velvet Pastry [1 Piece]",
+        "price": "140",
+        "desc": "Red velvet sponge layered with cream cheese frosting enhanced with lime juice.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/m6zcb9uitpu4b3rtcl1w"
+    },
+    {
+        "name": "Opium Pastry [1 Piece]",
+        "price": "140",
+        "desc": "A light chocolate cake topped with dark chocolate whipped cream.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ujkoxqevzxaj6qanytdl"
+    },
+    {
+        "name": "Devils Mousse Pastry [1 Piece]",
+        "price": "140",
+        "desc": "Suitable for people who do not consume gluten. It’s a flourless sponge based chocolate pastry. Similar to a chocolate mousse that is baked in an oven.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e9750b1291b346acf63abdd9bc984553"
+    },
+    {
+        "name": "Assorted Box of Eggless Pastries [4 Pcs]",
+        "price": "530",
+        "desc": "An assortment of eggless pastries - Eggless Dutch Truffle Pastry (1), Eggless Fresh Cream Pineapple Pastry (1), Eggless Red Velvet Pastry (1) & Eggless Opium Pastry (1)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0659db808ba5ec15dc765d5172099228"
+    },
+    {
+        "name": "Assorted Box of Pastries [4 Pcs]",
+        "price": "530",
+        "desc": "An assortment of pastries - Dutch Truffle Pastry (1), Fresh Cream Pineapple Pastry (1), Red Velvet Pastry (1) & Opium Pastry (1)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/6ae5db305649b7b3dba47617a4fb31cf"
+    },
+    {
+        "name": "Tiramisu Cup [110g]",
+        "price": "150",
+        "desc": "Traditional mascarpone cream layered on a coffee-flavored vanilla cake, topped with Belgian cocoa powder.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b33c420f40bc6c83b799f05f46b3f27a"
+    },
+    {
+        "name": "Chocolate Mousse Cup [100g]",
+        "price": "150",
+        "desc": "Light and cream chocolate mousse.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/56b21ed43442e7cfd70622dc9841a7a3"
+    },
+    {
+        "name": "Eggless Chocolate Cupcake [1 Piece]",
+        "price": "110",
+        "desc": "Chocolate cupcake with chocolate buttercream frosting.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xoynoxhkclaqoeveib5l"
+    },
+    {
+        "name": "Eggless Red Velvet Cupcake [1 Piece]",
+        "price": "110",
+        "desc": "Moist red velvet cupcake with lemon cream cheese frosting.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hpexdgpfenmfnpgyuni3"
+    },
+    {
+        "name": "Eggless Vanilla & Blueberry Cupcake [1 Piece]",
+        "price": "110",
+        "desc": "Moist & fluffy vanilla cupcake filled with blueberry jam & topped with blueberry butter cream frosting.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qphryhmvdfs5rszxtivc"
+    },
+    {
+        "name": "Eggless Chocolate & Hazelnut Cupcake [1 Piece]",
+        "price": "110",
+        "desc": "Dense chocolate cupcake filled with chocolate hazelnut spread & topped with hazelnut buttercream frosting.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/z2m1x2buxgwzcoy3ut0i"
+    },
+    {
+        "name": "Assorted Box of Eggless Cupcakes [4 Pcs]",
+        "price": "440",
+        "desc": "An assortment of signature Theobroma cupcakes - Eggless chocolate cupcake (1), Eggless Red Velvet cupcake (1), Eggless Chocolate & Hazelnut cupcake (1), Eggless Vanilla & Blueberry cupcake (1)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rrkpzlvtdkok3bzseltj"
+    },
+    {
+        "name": "Wheat Bread Loaf [400g]",
+        "price": "90",
+        "desc": "Soft & spongy bread made with whole wheat and wheat flour.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/71790e5b9cccc8b876c9fa7eb4dc2f3c"
+    },
+    {
+        "name": "Multigrain Loaf [400g]",
+        "price": "95",
+        "desc": "Soft & spongy bread made with homemade multi-grain flour & covered with a multi seed mix.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/6efd945769b25a8ef4a9cb2c0dfe5b53"
+    },
+    {
+        "name": "Wheat Sourdough Loaf [350g]",
+        "price": "95",
+        "desc": "Our sourdough loaf is a naturally fermented loaf without commercial yeast, giving it a mildly sour taste.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c9b67eea53d49b0f8822b6e57bdd5b96"
+    },
+    {
+        "name": "French Baguette [140g]",
+        "price": "85",
+        "desc": "A french bread loaf with a crisp outer crust, chewy texture and a soft crumb.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Eggless Mava Cake [225g]",
+        "price": "250",
+        "desc": "A moist and buttery cake made with mava (khoya).",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e34878cb7dd5cebe29597b73679c2db4"
+    },
+    {
+        "name": "Banana Cake [200g]",
+        "price": "140",
+        "desc": "Soft, moist cakey bread made with mashed ripe bananas.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e6c6fea60992de02d56aab757d277aec"
+    },
+    {
+        "name": "Dense Loaf [350g]",
+        "price": "280",
+        "desc": "A rich chocolate cake made with melted chocolate.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/270802eeaa462f34b5bdfc350ea9764c"
+    },
+    {
+        "name": "Mava Cake [300g]",
+        "price": "290",
+        "desc": "A moist and buttery cake made with mava (khoya).",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/5669ef5de4ca8d58174d138a4fea9ec4"
+    },
+    {
+        "name": "Eggless Dense Loaf [260g]",
+        "price": "230",
+        "desc": "A rich chocolate cake made with melted chocolate.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c4e595691be43e194ec093a10a1e46c2"
+    },
+    {
+        "name": "Pound Cake [210g]",
+        "price": "160",
+        "desc": "Rich buttery vanilla cake made with a traditional recipe.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f9607c0e05bdff94f448605097a75dd0"
+    },
+    {
+        "name": "Cheese Crackers [100g]",
+        "price": "150",
+        "desc": "Made with cheese, butter & a touch of mustard and chilli",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8c0865617931b124df04ba7d976ea05d"
+    },
+    {
+        "name": "Butter Cookies [8 Pcs]",
+        "price": "290",
+        "desc": "Our Butter Cookies are crisp eggless vanilla cookies made with almond flour. They have a mild caramelised flavour and are the perfect tea-time accompaniment.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gyg9sjx5iufuihmxuwmn"
+    },
+    {
+        "name": "Pure Butter Palmiers [50g]",
+        "price": "85",
+        "desc": "Also known as Elephant ears or Palm hearts. Puff pastry made with butter rolled in caster sugar and caramelized.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Almond Biscotti [150g]",
+        "price": "205",
+        "desc": "Double baked Italian biscuit loaded with almonds and flavoured with fennel seeds and a hint of orange.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c3d1408f31978ba12affe7d44366f93b"
+    },
+    {
+        "name": "Choco Chip Cookies [8 Pcs]",
+        "price": "220",
+        "desc": "Vanilla cookie dough with dark chocolate chunks baked to give you a soft, melt in your mouth cookie.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/6d38b092478cc09f000f12fda0b35c08"
+    },
+    {
+        "name": "Double Choco Chip Cookies [8 Pcs]",
+        "price": "230",
+        "desc": "Chocolate cookie dough with dark chocolate chunks baked to give you a soft and moist cookie.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/27a81d064136851902fe379b360f8d42"
+    },
+    {
+        "name": "Black Pepper Sourdough Crackers [100g]",
+        "price": "95",
+        "desc": "Baked crispy crackers made with whole wheat flour, sourdough and black pepper.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e0448b76d2e595226e7aec5568433df0"
+    },
+    {
+        "name": "Ragi Crackers [100g]",
+        "price": "95",
+        "desc": "Baked crispy crackers made with wheat flour, ragi flour & enriched with the goodness of honey, flax seed & sesame seeds.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/2cceb01b6d50095a42ad1bd19c80bf54"
+    },
+    {
+        "name": "Quiche Veg [1 Piece]",
+        "price": "130",
+        "desc": "Its a pie made by filling a pastry with a mixture of cream, cheese and vegetables and is baked.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/llazazdtwul1wpq0jxug"
+    },
+    {
+        "name": "Spicy Paneer Butter Puff [1 Piece]",
+        "price": "95",
+        "desc": "A flaky buttery golden crust puff filled with a cheesy paneer & vegetable filling.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c42dd0ec32ad072d7ee175d2c8c9e927"
+    },
+    {
+        "name": "Chicken and Cheese Butter Puff [1 Piece]",
+        "price": "105",
+        "desc": "A flaky butter pastry with a bechamel sauce, herb-roasted chicken & cheese filling.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/86e6da791821bccdd437abcc26c9eb45"
+    },
+    {
+        "name": "Chicken Mayonaise Roll [190g]",
+        "price": "205",
+        "desc": "Soft roll filled with roasted chicken tossed with home made mustard mayonnaise.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Paneer Junglee Roll [190g]",
+        "price": "190",
+        "desc": "Grated fresh malai paneer with fresh mint, ketchup, chilly, coriander and processed cheese mashed to form a sweet tangy and cheesy filling stuffed in a soft white roll.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/2587714ad6fb0460463c1ff995986468"
+    },
+    {
+        "name": "Roasted Chicken & Mustard Sandwich [250g]",
+        "price": "230",
+        "desc": "Sliced chicken breast, topped with sliced tomato, cheese, lettuce and mustard sauce sandwiched between marble bread (Combination of multigrain and white bread).",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wbw6jdawqtypcbpoutar"
+    },
+    {
+        "name": "Pain Au Chocolat [1 Piece]",
+        "price": "95",
+        "desc": "Chocolate folded between flaky Danish pastry dough.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/db2e5b37278daa95d824f5b6e3a97f7a"
+    },
+    {
+        "name": "Butter Croissant [1 Piece]",
+        "price": "85",
+        "desc": "Flaky pastry laminated with butter.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0bd3db71154c3d9adcf4c69ae01639c0"
+    },
+    {
+        "name": "Almond Rocks [250g]",
+        "price": "575",
+        "desc": "Almonds coated with dark chocolate.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/5c071677a01c683f496e602c0f2f91e3"
+    },
+    {
+        "name": "Almond Rocks [1/2kg]",
+        "price": "1150",
+        "desc": "Almonds coated with dark chocolate.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8eb7c0f4e45e3e36ad13b9ce6c0a0f9e"
+    },
+    {
+        "name": "Classic Mango [200 ml]",
+        "price": "150",
+        "desc": "A blend of 100% natural cold-pressed mango and pineapple juice, with no added sugar or preservatives.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/4e8279b6b378cc205a1b1dcff30bf738"
+    }
+]

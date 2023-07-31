@@ -1,0 +1,1260 @@
+[
+    {
+        "name": "Super Saver Paneer Wrap Combo (Extra Savings)",
+        "price": "409",
+        "desc": "SAVE RS.139 with this exciting combo to take away all your month end woes, 1 Masala Paneer Tikka Wrap , 1 Cheese Melt Paneer Wrap , 2 Wedges",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/4b5eaf6b4df1f81529d99724d67cf025"
+    },
+    {
+        "name": "Mega Saver Paneer & Falafel Wrap Combo (Extra Savings)",
+        "price": "449",
+        "desc": "SAVE RS.93 and indulge in a meal full of exciting surprises to satisfy all your month-end cravings, 1 Masala Paneer Tikka Wrap , 1 Veg Falafel Wrap , 2 Wedges , 2 Thums up (250 ml)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/2a6d461c15930232b4f00aad88be6474"
+    },
+    {
+        "name": "Mega Saver Double Paneer Wrap Combo (Extra Savings)",
+        "price": "599",
+        "desc": "SAVE RS.147 and make all your meals a feast with this combo of 1 Masala Paneer Tikka Wrap + 1 Cheese Melt Paneer Wrap + 2 Wedges + 2 Choco Lava",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Super Saver Paneer & Chicken Rice Bowl Meal (Extra Savings)",
+        "price": "509",
+        "desc": "SAVE RS.133 and enjoy a satisfied tummy and a full wallet even at the end of the month, 1 Paneer Signature Rice Bowl (Regular) , 1 Chicken Signature Rice Bowl , 2 Wedges",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b9e63acdea34e057bfbf5a6aa8e3782d"
+    },
+    {
+        "name": "Super Saver Paneer & Chicken Wrap Combo (Extra Savings)",
+        "price": "419",
+        "desc": "SAVE RS.119 on this spiced up combo to add flavour to your otherwise dull month end, 1 Masala Paneer Tikka Wrap , 1 Masala Chicken Tikka , 2 Wedges",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cd141e6f4988aa44623cb0924d4496d2"
+    },
+    {
+        "name": "Mega Saver Paneer & Chicken Wrap Combo (Extra Savings)",
+        "price": "599",
+        "desc": "SAVE RS.137 on this masaledar feast for two with BIG SAVINGS, 1 Masala Paneer Tikka Wrap , 1 Masala Chicken Tikka , 2 Wedges , 2 Choco Lava",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Super Saver Chicken Tikka Wrap Meal + Dessert",
+        "price": "199",
+        "desc": "SAVE Rs. 58 with this delicious combo of 1 Masala Chicken Tikka Wrap , 1 Wedges , 1 Choco Lava. If the perfect meal existed, this is what it would look like",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yfvntpiqcbo7awdgd1du"
+    },
+    {
+        "name": "Cheese Melt Paneer Wrap & Wedges Mini Meal (Extra Savings)",
+        "price": "199",
+        "desc": "SAVE Rs. 55 with this cheesy combo of 1 Cheese Melt Paneer Wrap , 1 Wedges. Something cheesy with a side of spicy and sassy awaits",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/99a65ffa969e461983ba888d222b203e"
+    },
+    {
+        "name": "Masala Paneer Tikka Wrap & Choco Lava Mini Meal (Extra Savings)",
+        "price": "179",
+        "desc": "SAVE Rs. 55 with this exciting combo of 1 Masala Paneer Tikka Wrap , 1 Choco Lava. Both your favourites in one",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e6226c3d97a981091d2f41bbe6ec38c2"
+    },
+    {
+        "name": "Super Saver Veg Cheesy Corn Salsa Wrap Meal + Dessert",
+        "price": "199",
+        "desc": "SAVE Rs. 84 with this exciting combo of 1 Cheesy Corn Salsa Wrap + 1 Wedges + 1 Choco Lava. Its cheesy, sweet, crunchy and has all things nice",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Super Saver Paneer Tikka Wrap Meal + Dessert",
+        "price": "269",
+        "desc": "Save Rs. 94 with this masaledaar combo of 1 Masala Paneer Tikka Wrap , 1 Wedges , 1 Choco Lava. A balanced meal with exciting flavours is a click away",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/98b255080463caba96a85b6e21abb621"
+    },
+    {
+        "name": "Masala Paneer Tikka Wrap & Wedges Mini Meal (Extra Savings)",
+        "price": "199",
+        "desc": "SAVE Rs. 55 with this combo of 1 Masala Paneer Tikka Wrap , 1 Wedges. This spiced up combo is here to make saving big a tastier task",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f9eebce3c350e859dadf462d38122739"
+    },
+    {
+        "name": "Masala Chicken Tikka Wrap & Wedges Mini Meal (Extra Savings)",
+        "price": "199",
+        "desc": "SAVE Rs. 35 with this combo of 1 Masala Chicken Tikka Wrap , 1 Wedges. This masaledaar combo is here to uplift your spirits and make you better at saving",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/74c6f1e5448dd6d8af5bff398cf5a793"
+    },
+    {
+        "name": "Veg Classic Meal",
+        "price": "235",
+        "desc": "Let SAVINGS up to Rs. 39 and delicious surprises spoil you for choice. 1 veg classic wrap + 1 starter or dessert of your choice",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bf9fa075064f176605d321c81b989153"
+    },
+    {
+        "name": "Non-Veg Classic Meal",
+        "price": "245",
+        "desc": "Something sweet, something savory and SAVINGS up to Rs. 39, amazing isnt it, 1 non-veg classic wrap + 1 starter or dessert of your choice",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/4e6600a22c5d9195142d4faa6e0c054e"
+    },
+    {
+        "name": "Veg Signature Meal",
+        "price": "299",
+        "desc": "Definite fun and exclusive SAVINGS. Choose from your favorite veg signature wrap with a starter or dessert.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b08ea685e5357177d5ff91b1698f5019"
+    },
+    {
+        "name": "Non-Veg Signature Meal",
+        "price": "339",
+        "desc": "Your favourite wrap meal at an amazing deal. Choose from your favourite non-veg signature wrap with a starter or dessert",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/44eedfbcc73f5ab6e279922d352d4560"
+    },
+    {
+        "name": "DIY Signature Veg Meal with Wrap, Beverage and Side",
+        "price": "329",
+        "desc": "Save upto 56, heres your quick-fix. Get your choice of 1 signature veg wrap, beverage and side. We can hear your stomach growling already.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/88a4348c5f843e190adc54d8fb9b8052"
+    },
+    {
+        "name": "DIY Signature Non-Veg Meal with Wrap, Beverage and Side",
+        "price": "369",
+        "desc": "Signature savings of upto 56, on signature cravings. Get your choice of 1 signature non-veg wrap, beverage and side. Time to switch that nom nom mode ON.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7f27b66f73a34ad768e3e0de5d9ab9ae"
+    },
+    {
+        "name": "DIY Veg Classic Wrap and Muffin Breakfast Meal",
+        "price": "209",
+        "desc": "With savings of upto 15 percent this is the breakfast meal of your choice of 1 classic veg wrap with 1 muffin is a perfect deal-breaker. Now order, save, repeat.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/20252d16c4a8a2b427a70f44d1b3a7ac"
+    },
+    {
+        "name": "DIY Veg Classic Wrap and Beverage Breakfast Meal",
+        "price": "185",
+        "desc": "With savings of upto 10 percent this breakfast meal of your choice of a classic veg wrap, & 1 beverage is a perfect deal-breaker. Now order, save, repeat.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/85cf3218a4b4bf7d707be4ad8cf3720c"
+    },
+    {
+        "name": "DIY Veg Classic Wrap and Wedges Breakfast Meal",
+        "price": "175",
+        "desc": "Savings upto Rs 20 percent, this deal surely feels like a heaven. With your choice of a classic veg wrap, and a side, this will make you go wow.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/891317f4996d10fc349c6114b9cbdf58"
+    },
+    {
+        "name": "DIY Veg Classic Wrap and Coffee Breakfast Meal",
+        "price": "285",
+        "desc": "With saving upto 15 percent, this feels like a spree. This breakfast of your choice of a classic veg wrap and coffee makes for a perfect start to your morning.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/df02754ce2c170290d62c61ae5be7708"
+    },
+    {
+        "name": "DIY Egg Classic Wrap and Muffin Breakfast Meal",
+        "price": "179",
+        "desc": "No more wait, straightaway save upto 20 percent. Choose 1 non-veg wrap with 1 muffin, and switch that rise and shine mode ON right away.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/88ab3cc3127e60497129d0cbdd8e82dd"
+    },
+    {
+        "name": "DIY Egg Classic Wrap and Beverage Breakfast Meal",
+        "price": "169",
+        "desc": "No more wait, straightaway save upto 10 percent. Choose 1 non-veg wrap & 1 beverage, and switch that morning conquer-all mode ON right away.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/67d194fe0de3990c2ea49339bf200163"
+    },
+    {
+        "name": "DIY Egg Classic Wrap and Wedges Breakfast Meal",
+        "price": "145",
+        "desc": "FYI, this time you got savings upto 25 percent. Add your choice of a classic non-veg wrap and a side. Now dont let all that chomp chomp stop.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "DIY Egg Classic Wrap and Coffee Breakfast Meal",
+        "price": "279",
+        "desc": "Save upto 15 percent & get flavour, fun, excitement at the start of your day. Add your choice of a classic non-veg wrap and a coffee and you are all set for the day.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d0e071b9301e6e4abf53d7b691c5b15e"
+    },
+    {
+        "name": "Cheese Melt Paneer Wrap",
+        "price": "195",
+        "desc": "Let the good times roll with surprises & flavour with this exciting snack Cottage cheese is seasoned with select spices, slathered with creamy, gooey cheese & snuggly wrapped in soft roti. I Calories (Kcals): 688 I Carbs (Gms): 59 I Proteins (Gms): 26 I Fats (Gms): 39",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Double Egg Chatpata Wrap",
+        "price": "99",
+        "desc": "Why settle for something ordinary when you can get a snack that is eggstra ordinary! Like this yum wrap made with golden-fried eggs, drizzled with tangy, cheesy mayo and wrapped in a soft roti. I Calories (Kcals): 817 I Carbs (Gms): 57 I Proteins (Gms): 22 I Fats (Gms): 56",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a5be439e731c63a9cb6a914aebc21579"
+    },
+    {
+        "name": "Egg Cheese Chicken Sausage Wrap",
+        "price": "145",
+        "desc": "When its about surprising your tastebuds, no one can beat us. This absolutely amazing wrap made with juicy sausages, omelette & lots of cheese is here to roll you up in exciting flavours & surprises. I Calories (Kcals): 815 I Carbs (Gms): 26 I Proteins (Gms): 56 I Fats (Gms): 53",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c1d55178e0092f1e058fcca61c3f3f04"
+    },
+    {
+        "name": "Cheese Melt Double Egg Wrap",
+        "price": "139",
+        "desc": "Golden-fried eggs are loaded with silky, creamy cheesy and wrapped in a soft roti. An overload of cheese, just like you wanted I Calories (Kcals): 605 I Carbs (Gms): 53 I Proteins (Gms): 24 I Fats (Gms): 34",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Chipotle Double Egg Chatpata Wrap",
+        "price": "145",
+        "desc": "Perfectly golden-fried eggs along with crunchy onion, tangy mayo and creamy cheese are wrapped into a soft roti. The perfect balance of flavour to excite your tastebuds! I Calories (Kcals): 689 I Carbs (Gms): 58 I Proteins (Gms): 25 I Fats (Gms): 40",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f67e2730d9f2da6e608186aaf35dbf8d"
+    },
+    {
+        "name": "Egg Rice Bowl (Regular)",
+        "price": "169",
+        "desc": "This bowl is packed with delicious surprises, here to add eggstra flavour to your life. Pick your favourite from, Spicy Hyderabadi Rice or Classic Flavourful Rice with subtly-spiced gravy and a golden-fried omelette I Calories (Kcals): 581 I Carbs (Gms): 86 I Proteins (Gms): 16 I Fats (Gms): 20",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/255c81432a3932ed52c7d4d47c5e1fcc"
+    },
+    {
+        "name": "Potato Wedges (Medium)",
+        "price": "99",
+        "desc": "When you dont know what to eat next we suggest keep it simple and call for the wedges.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0124f146ebd7e4b6400ee82c82c28e20"
+    },
+    {
+        "name": "Potato Wedges (Small)",
+        "price": "69",
+        "desc": "When you don't know what to eat next, keep it simple! Indulge in our delicious potato wedges sprinkled with Teekha Chaska for that perfect flavour punch.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/251152c7359f99d9561fbaf1dbd21582"
+    },
+    {
+        "name": "Teekha Chaska Sausages",
+        "price": "129",
+        "desc": "Succulent chicken sausages, cut into small bite sized pieces is sprinkled with our signature Teekha Chaska and served with a mayonnaise dip.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/649e7d3664bc1bd5e33ad50c8b91e60d"
+    },
+    {
+        "name": "Classic Cold Coffee",
+        "price": "220",
+        "desc": "\"(Sweet - SLAY Signature Espresso Shot + Chilled Milk + Vanilla Ice Cream) The best cold coffee -over 4mn cups sold. Our all time favourite\"",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/enmzdld4yqznma4v9yn5"
+    },
+    {
+        "name": "Cappuccino",
+        "price": "129",
+        "desc": "(Unsweetened -SLAY Signature Double Espresso Shot + Steamed Milk). The all time classic comfort coffee.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8d170fda1f865b2daf04b18d5ae324f3"
+    },
+    {
+        "name": "Sabudana Khichdi Curd Meal with Aloo Pattice",
+        "price": "219",
+        "desc": "(NO ONION, NO GARLIC) All time favourite Shravan upvas essential made with sabudana, green chillies and roasted peanut and served with Curd & Upvas Pattice served with Imli Chutney & Curd.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d537c30d2c39358120a8670e9b36fa2d"
+    },
+    {
+        "name": "Sabudana Khichdi & Curd Meal",
+        "price": "209",
+        "desc": "Classic Sabudana khichdi topped with crushed peanuts, green chillies and coconut, served with a side of creamy curd to turn your Navratri fast into a feast. (Made with no onion, no garlic, and pure sendha namak. Jain Friendly)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7ffeed427f3541c413031463fa21f378"
+    },
+    {
+        "name": "Upvas Aloo Pattice with Imli Chutney and Curd",
+        "price": "199",
+        "desc": "(NO ONION, NO GARLIC) A quick and delicious appetizer, sure to be your Shravan upvas favourite served with a delicuous imli chutney and curd.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Sabudana Paratha (2 pcs) Curd Meal",
+        "price": "229",
+        "desc": "(NO ONION, NO GARLIC) Celebrate Shravan with a perfect combination of delicious Sabudana Paratha with curd.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Veg Classic + Veg Signature Wrap at 160 each",
+        "price": "320",
+        "desc": "Amazing wraps and SAVINGS up to Rs. 74. What else can you ask for. Choose any one veg classic wrap and one veg signature wrap with delicious fillings & sauces all wrapped in a flaky paratha.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f1cfdd54c9a18ac4e7f89822fefd3fb0"
+    },
+    {
+        "name": "2 Signature Veg Wraps at 180 each",
+        "price": "360",
+        "desc": "Amazing wraps and SAVINGS up to Rs. 78. What else can you ask for. Choose any two from our unique Signature Veg Wraps with delicious fillings & sauces all wrapped in a flaky paratha.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9ebe1728b87aae2f2680c36a324c7827"
+    },
+    {
+        "name": "Veg Classic Wrap & Bowl at 173 each",
+        "price": "346",
+        "desc": "Give a high-five to savings of flat Rs. 62. Choose 1 veg classic wrap & 1 veg classic rice bowl and tell yourself cest la vie.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cf82166e4524d70b51420ac504712e25"
+    },
+    {
+        "name": "Non-Veg Classic Wrap & Bowl at 190 each",
+        "price": "380",
+        "desc": "With savings of flat Rs 60 this is the meal of your choice of 1 classic non-veg wrap with 1 classic non-veg bowl is a perfect deal-breaker. Now order, save, repeat.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "3 Classic Veg Wraps at 130 each",
+        "price": "390",
+        "desc": "All hearts for SAVINGS up to Rs. 135 & all smiles for surprises. Choose any 3 from your favourite Classic Veg wraps loaded with unique ingredients and enjoy. Can we get a wow.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/efe7261b1afff7c02ada806da9e7b03b"
+    },
+    {
+        "name": "3 Signature Veg Wraps at 166 each",
+        "price": "498",
+        "desc": "Bolder the flavours, bigger the SAVINGS up to Rs. 159. Choose any 3 from our Signature veg wraps & enjoy this delicious meal for 3. Because if two is company, three is a party for sure.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a9565d767e0ed8263aee58fabf274746"
+    },
+    {
+        "name": "4 Classic Veg Wraps at 120 each",
+        "price": "480",
+        "desc": "All hearts for SAVINGS up to Rs. 220 & all smiles for surprises. Choose any 4 from your favourite Classic Veg wraps loaded with unique ingredients and enjoy. Can we get a wow.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/52415bc7954a4323b7a02b1150667a2a"
+    },
+    {
+        "name": "Non-Veg Classic + Non-Veg Signature Wrap at 175 each",
+        "price": "350",
+        "desc": "Get spoiled with max SAVINGS of Rs. 80 & delicious surprises. Enjoy a delicious meal for two by choosing any two of our non-veg wraps (one classic and one signature) loaded with tender chicken & unique combinations of sauces.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/47f7ae37794c81fce1ca1f21333abb82"
+    },
+    {
+        "name": "2 Signature Non-Veg Wraps at 210 each",
+        "price": "420",
+        "desc": "Get spoiled with max SAVINGS of Rs. 70 & delicious surprises. Enjoy a delicious meal for two by choosing any two of our Signature Non-veg Wraps loaded with tender chicken & unique combinations of sauces.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ca37357143403cf913409960ade15932"
+    },
+    {
+        "name": "3 Signature Non-Veg Wraps at 190 each",
+        "price": "570",
+        "desc": "Surprise your taste buds and your pockets with max SAVINGS of Rs. 165 & delicious flavours. Choose your 3 favourite Signature Non-veg wraps loaded with deliciously unique ingredients. Theres no reason to delay here.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/761229f1a55bc26cb51a427850f01f81"
+    },
+    {
+        "name": "4 Classic Non-Veg Wraps at 130 each",
+        "price": "520",
+        "desc": "Lip-smacking flavours at jaw-dropping SAVINGS up to Rs. 220. Choose any 4 from your favourite Classic Non-Veg wraps with extraordinary flavours.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d740aabf786990ceae4ed47b370af950"
+    },
+    {
+        "name": "2 Signature Wraps (1 Veg + 1 Non-Veg) at 180 each",
+        "price": "360",
+        "desc": "Bolder the flavours, bigger the SAVINGS up to Rs. 104. Choose any 2 from our Signature veg, non-beg wraps & enjoy this delicious meal for 2.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8297466213b7867c1b6965113b917680"
+    },
+    {
+        "name": "3 Classic Non-Veg Wraps at 140 each",
+        "price": "420",
+        "desc": "Lip-smacking flavours at jaw-dropping SAVINGS up to Rs. 135. Choose any 4 from your favourite Classic Non-Veg wraps with extraordinary flavours.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Veg Signature Meal",
+        "price": "299",
+        "desc": "Definite fun and exclusive SAVINGS. Choose from your favorite veg signature wrap with a starter or dessert.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b08ea685e5357177d5ff91b1698f5019"
+    },
+    {
+        "name": "Non-Veg Signature Meal",
+        "price": "339",
+        "desc": "Your favourite wrap meal at an amazing deal. Choose from your favourite non-veg signature wrap with a starter or dessert",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/44eedfbcc73f5ab6e279922d352d4560"
+    },
+    {
+        "name": "Veg Classic Meal",
+        "price": "235",
+        "desc": "Let SAVINGS up to Rs. 39 and delicious surprises spoil you for choice. 1 veg classic wrap + 1 starter or dessert of your choice",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bf9fa075064f176605d321c81b989153"
+    },
+    {
+        "name": "Non-Veg Classic Meal",
+        "price": "245",
+        "desc": "Something sweet, something savory and SAVINGS up to Rs. 39, amazing isnt it, 1 non-veg classic wrap + 1 starter or dessert of your choice",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/4e6600a22c5d9195142d4faa6e0c054e"
+    },
+    {
+        "name": "Cheese Melt Paneer Wrap & Wedges Mini Meal",
+        "price": "259",
+        "desc": "SAVE Rs. 55 with this cheesy combo of 1 Cheese Melt Paneer Wrap , 1 Wedges. Something cheesy with a side of spicy and sassy awaits",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/99a65ffa969e461983ba888d222b203e"
+    },
+    {
+        "name": "Masala Paneer Tikka Wrap & Wedges Mini Meal",
+        "price": "208.60",
+        "desc": "SAVE Rs. 25 with this combo of 1 Masala Paneer Tikka Wrap , 1 Wedges. This spiced up combo is here to make saving big a tastier task",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f9eebce3c350e859dadf462d38122739"
+    },
+    {
+        "name": "DIY Veg Classic Bowl and Sides Mini Meal",
+        "price": "285",
+        "desc": "With savings of upto 40 percent this breakfast meal of your choice of a classic veg wrap, & 1 beverage is a perfect deal-breaker. Now order, save, repeat.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/5998b7fa53c4dd63272f7bd8c8f64d5c"
+    },
+    {
+        "name": "DIY Non-Veg Classic Bowl and Sides Mini Meal",
+        "price": "309",
+        "desc": "No more wait, straightaway save upto 40 percent. Choose 1 non-veg wrap & 1 beverage, and switch that morning conquer-all mode ON right away.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9d8c4e3b0c19332255cfa67bb6ed8d46"
+    },
+    {
+        "name": "DIY Veg Classic Bowl and Beverage Mini Meal",
+        "price": "279",
+        "desc": "Savings upto Rs 35 percent, this deal surely feels like a heaven. With your choice of a classic veg wrap, and a side, this will make you go wow.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d0af492d5d879c97b56a72731e5185fa"
+    },
+    {
+        "name": "DIY Non-Veg Classic Bowl and Beverage Mini Meal",
+        "price": "305",
+        "desc": "FYI, this time you got savings upto 35 percent. Add your choice of a classic non-veg wrap and a side. Now dont let all that chomp chomp stop.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c4ccf8f07fbe18aac4f34b729f6ba4aa"
+    },
+    {
+        "name": "DIY Veg Classic Wrap and Sides Mini Meal",
+        "price": "239",
+        "desc": "With savings of upto 40 percent this breakfast meal of your choice of a classic veg wrap, & 1 beverage is a perfect deal-breaker. Now order, save, repeat.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7e6f5a51908a19b07de6946c34befc96"
+    },
+    {
+        "name": "DIY Non-Veg Classic Wrap and Sides Mini Meal",
+        "price": "249",
+        "desc": "No more wait, straightaway save upto 35 percent. Choose 1 non-veg wrap & 1 beverage, and switch that morning conquer-all mode ON right away.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "DIY Veg Classic Wrap & Beverage Mini Meal",
+        "price": "229",
+        "desc": "Savings upto Rs 30 percent, this deal surely feels like a heaven. With your choice of a classic veg wrap, and a side, this will make you go wow.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bd7328cc615572a266a7cc99fef4cb1b"
+    },
+    {
+        "name": "DIY Non-Veg Classic Wrap & Beverage Mini Meal",
+        "price": "235",
+        "desc": "FYI, this time you got savings upto 30 percent. Add your choice of a classic non-veg wrap and a side. Now dont let all that chomp chomp stop.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a9b3131221c899f41ba5d3cab94a1ff6"
+    },
+    {
+        "name": "DIY Classic Non-Veg Meal with Wrap, Beverage and Side",
+        "price": "499",
+        "desc": "FYI, this time you got savings upto Rs 105. Add your choice of classic non-veg wrap, beverage and a side. Now dont let all that chomp chomp stop.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/049bf8fce9720e9bba20f42012f10450"
+    },
+    {
+        "name": "DIY Classic Veg Meal with Wrap, Beverage and Side",
+        "price": "469",
+        "desc": "Savings upto Rs 107, this deal surely feels like a heaven. With your choice of classic veg wrap, beverage and a side, this will make you go wow.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aa5933452549deb9c1bfa88981b6b81a"
+    },
+    {
+        "name": "(Serves 1) Super Saver Chicken Rice Bowl Meal + Thums Up",
+        "price": "299",
+        "desc": "An amazing super saver surprise of FLAT Rs. 26 savings with a bowl of delicious flavourful rice. Chicken Signature Rice Bowl , Potato Wedges (120 gms) , 1 Thumbs Up (250 ml)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/de1a59b8d0299440e0e7c4c5e0be18b9"
+    },
+    {
+        "name": "(Serves 1) Super Saver Chicken Tikka Wrap Meal + Thums Up",
+        "price": "279",
+        "desc": "FLAT savings of Rs. 15 and delicious suprises. A combo that hits all the right spots, 1 Masala Chicken Tikka Wrap , Wedges (120gms) , 1 Thums up (250 ml)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/42f82f9e480f8b5b32de0e91316f461b"
+    },
+    {
+        "name": "(Serves 1) Super Saver Paneer Tikka Wrap Meal + Thums up",
+        "price": "259",
+        "desc": "SAVINGS of Rs. 35 are here to surprise your tastebuds and satiate your cravings. 1 Masala Paneer Tikka Wrap + Wedges + Thums up (250 ml)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "(Serves 1) Chicken Signature Rice Bowl + Wedges Meal",
+        "price": "299",
+        "desc": "Save Rs. 29 with this wholesome breakfast combo of 1 Chicken Signature Rice Bowl , 1 Wedges",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d51450a12b48003c530474b81ff693b7"
+    },
+    {
+        "name": "DIY Classic Veg Meal with Bowl, Beverage and Side",
+        "price": "329",
+        "desc": "Save upto 35 percent, heres your quick-fix. Get your choice of 1 classic veg wrap, beverage & side. We can hear your stomach growling already.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "DIY Classic Non-Veg Meal with Bowl, Beverage and Side",
+        "price": "355",
+        "desc": "Big savings of upto 30 percent, on your all time favourite meal. Get your choice of 1 classic non-veg wrap, beverage & side. Time to switch that nom nom mode ON.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "DIY Classic Veg Meal with Wrap, Beverage & Side",
+        "price": "299",
+        "desc": "Save upto 35 percent, heres your quick-fix. Get your choice of 1 classic veg wrap, beverage & side. We can hear your stomach growling already.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "DIY Classic Non-Veg Meal with Wrap, Beverage & Side",
+        "price": "309",
+        "desc": "Big savings of upto 35 percent, on your all time favourite meal. Get your choice of 1 classic non-veg wrap, beverage & side. Time to switch that nom nom mode ON.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7ce52d924cabe63077efdc20becebccc"
+    },
+    {
+        "name": "Masala Paneer Tikka Wrap & Fries",
+        "price": "288",
+        "desc": "Happy times are here. Have your favourite Masala Paneer Tikka Wrap and Fries combo. What else can you ask for.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/79463605671f13cf7c89270f6dde50db"
+    },
+    {
+        "name": "Masala Chicken Tikka Wrap & Fries",
+        "price": "298",
+        "desc": "Enjoy this delicious surprise of Masala Chicken Tikka Wrap with Fries. A happy meal it is.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8f90d149e315960115aad4efb86e58ad"
+    },
+    {
+        "name": "Cheese Melt Paneer Wrap & Fries",
+        "price": "308",
+        "desc": "This combination surely feels like a heaven. Cheese Melt Paneer Tikka Wrap with Fries, this will make you go wow.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8b3d5fb64edefe3ae2d2ddba46408ca2"
+    },
+    {
+        "name": "Masala Paneer Tikka Wrap & Wedges",
+        "price": "278",
+        "desc": "This is your hint to get your all-time favourite combination of Masala Paneer Tikka Wrap with Wedges.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/63d542c49312afce4a0a83e29e44eed4"
+    },
+    {
+        "name": "Masala Chicken Tikka Wrap & Wedges",
+        "price": "288",
+        "desc": "FYI, this happy meal will surely surprise your mouth buds - Masala Chicken Tikka Wrap & Wedges. Now dont let all that chomp chomp stop.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7b1b1c75f531853453d1f576fd0789af"
+    },
+    {
+        "name": "Cheese Melt Paneer Wrap & Wedges",
+        "price": "298",
+        "desc": "Get Cheese Melt Paneer Wrap & Wedges. We can hear your stomach growling already.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b69533ebfa949cc63eb81e7b7ede6cf7"
+    },
+    {
+        "name": "Masala Paneer Tikka Wrap, Wedges & Coke",
+        "price": "335",
+        "desc": "Oldie but goodie - enjoy this delicious meal of Masala Paneer Tikka Wrap, Wedges and Coke combo.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/acd51e295dc46e048521babbc485b1b9"
+    },
+    {
+        "name": "Masala Chicken Tikka Wrap, Wedges & Coke",
+        "price": "345",
+        "desc": "Happy times are here. Have your favourite Masala Chicken Tikka Wrap, Fries and Coke combo. What else can you ask for.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7b0e50733b5c9335a51ff0a89a8f228a"
+    },
+    {
+        "name": "Paneer Signature Rice Bowl & Wedges",
+        "price": "328",
+        "desc": "This combination surely feels like a heaven. Paneer Signature Rice Bowl with Wedges, this will make you go wow.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/6117a6f251843e6a2be6f204a4632ed5"
+    },
+    {
+        "name": "Chicken Signature Rice Bowl & Wedges",
+        "price": "344",
+        "desc": "This is your hint to get your all-time favourite combination of Chicken Signature Rice Bowl with Wedges.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fab77b5e104c6258ed9844c33d64f142"
+    },
+    {
+        "name": "(Serves 2) Double Value Paneer Wrap & Nuggets Meal (Veg)",
+        "price": "399",
+        "desc": "Save FLAT Rs 68, Cravings putting up a fight. Dont worry, heres a veggie delight. 1 Masala Paneer Tikka Wrap , 1 Cheese Melt Paneer Wrap , 1 falafel nuggets , 1 coke",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/63e599eacf1042730be5ebec1212e9c4"
+    },
+    {
+        "name": "(Serves 2) Double Value Paneer Wrap & Bowl Meal (Veg)",
+        "price": "369",
+        "desc": "Save FLAT Rs 66 A meal to your hearts fill Indulge in this combo consisting of 1 Masala Paneer Tikka Wrap + 1 Paneer Signature Rice Bowl (Mini) + 1 wedges",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fd344db63ac8a1c4bb73f338f51152b4"
+    },
+    {
+        "name": "(Serves 2) Triple Value Veg Wrap + 2 Thums Up",
+        "price": "409",
+        "desc": "Save FLAT Rs 118 For all the paneer lovers out there, this combo is for you! 1 Masala Paneer Tikka Wrap + 1 Cheese Melt Paneer Wrap + 1 Veg Falafel Wrap + 2 Thums up (250 ml)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9a7e1db3322a50bddc40c9f767afa12f"
+    },
+    {
+        "name": "DIY Classic Non-Veg Meal with 2 Wraps, 1 Beverage and 2 Sides",
+        "price": "575",
+        "desc": "No more wait, straightaway save upto 158. Choose 2 non-veg wraps, 1 beverage and 2 sides, and switch that binge-watching mode ON right away.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7d93cc8c85e5c9b3f1c80ce481f2b75a"
+    },
+    {
+        "name": "DIY Classic Veg Meal with 2 Wraps, 1 Beverage and 2 Sides",
+        "price": "549",
+        "desc": "With savings of upto 156 this meal of your choice of 2 classic veg wraps, 1 beverage and 2 sides is a perfect deal-breaker. Now order, save, repeat.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7d216a552d92f7b7295b1d28fc13d2d5"
+    },
+    {
+        "name": "DIY Signature Veg Meal with 2 Wraps, 1 Beverage and 1 Side",
+        "price": "499",
+        "desc": "Save upto 85 while you watch your tastebuds do the jive. Choose 2 veg signature wraps, 1 beverage and 1 side. Personal party-time it is.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7064945d72f4ebfafdb806c9fa200505"
+    },
+    {
+        "name": "DIY Signature Non-Veg Meal with 2 Wrap, 1 Beverage and 1 Side",
+        "price": "569",
+        "desc": "Give a high-five to savings of upto 95. Choose 2 non-veg signature wraps, 1 beverage with 1 side and tell yourself cest la vie.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Family Saver Veg Classic Wrap with Coke & Wedges Meal",
+        "price": "849",
+        "desc": "We got you savings upto 243, did anyone say wrap-spree. Get 4 classic veg wraps of your choice with 2 beverages and 2 portions of wedges. Well, now this looks like family fiesta folks.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/80c76568f762acd9e683de333b5732e8"
+    },
+    {
+        "name": "Family Saver Veg Classic Wrap with Coke & Fries Meal",
+        "price": "849",
+        "desc": "With saving upto Rs 263, this feels like a spree. This meal of your choice of 4 classic veg wrap, 2 beverages and 2 portions of fries makes a pefect addition to your fun family sessions.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0dfa85265624b35c0c4a07eb94f1e22b"
+    },
+    {
+        "name": "Family Saver Veg Signature Wrap with Coke & Fries Meal",
+        "price": "949",
+        "desc": "Savings of upto 179 for you, to take away all your blues. Add your choice of 4 signature veg wrap, 2 beverages and 2 portions of fries. Get, set, ready for some more family drama.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f656cf2334890069ec176692ba824384"
+    },
+    {
+        "name": "Family Saver Veg Signature Wrap with Coke & Wedges Meal",
+        "price": "999",
+        "desc": "Savings of 109, we can see your eyes shine. Add your choice of 4 signature veg wrap, 2 beverages and 2 portions of wedges. Sounds like a plan",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c61452fa107b8401eee0f75a5fc54ae6"
+    },
+    {
+        "name": "Family Saver Non-Veg Signature Wrap with Coke & Fries Meal",
+        "price": "1099",
+        "desc": "Save upto 189 while you indulge in flavours so fine. Choose 4 of your fave wraps, 2 beverages and 2 portions of fries, dont forget to add all fave family movies, games and songs to the list.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ea779aa58d1098e86484f03d40c0a5e8"
+    },
+    {
+        "name": "Family Saver Non-Veg Signature Wrap with Coke & Wedges Meal",
+        "price": "1099",
+        "desc": "Signature savings of 169 for signature family time. Add your choice of 4 signature non-veg wrap, 2 beverages and 2 portions of wedges. we say gather your family and friends and party right away.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7765fe109f4f4abfcce3e089dc7fdb96"
+    },
+    {
+        "name": "Super Saver Veg Classic Wrap Meal for 6",
+        "price": "999",
+        "desc": "Upto 285 savings, exciting wraps, amazing sides, all checked. Get 6 classic veg wraps of your choice with 2 beverages for you and your friends and thank us later.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/297d28d6ebd69a986de68bdaf65a8f26"
+    },
+    {
+        "name": "Super Saver Non-Veg Classic Wrap Meal for 6",
+        "price": "1099",
+        "desc": "Super savings of upto 269 on super exciting wraps. Choose 6 classic non-veg wraps and 2 beverages because you are all set for a super-cool party.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b85bbe4802fbaf830884cead69f26b2f"
+    },
+    {
+        "name": "2 Classic Veg Rolls at 140 each",
+        "price": "280",
+        "desc": "Double surprises and amazing SAVINGS of Rs. 70 await you with this veg classic wraps. Choose 2 of your favourite now.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7b969648c499879cb31288b496cb5e50"
+    },
+    {
+        "name": "Chipotle Cheese Potato Roll",
+        "price": "145",
+        "desc": "Who knew potato shots could even do this. Wrapped in a paratha with crunchy onion, chipotle cheese and a drizzle of mint plus chatpata mayo makes this wrap exceptional. I Calories (Kcals): 761 I Carbs (Gms): 85 I Proteins (Gms): 14 I Fats (Gms): 41",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b8f7fb7a4326c7b2250ffdbed87209b2"
+    },
+    {
+        "name": "Pindi Chole Roll",
+        "price": "109",
+        "desc": "No one believed us when we said chole can be even more exciting. So we created a wrap that has a tangy burst of chole with flavorful Indian spices and crunchy onions, wrapped in a soft roti. Try it & get surprised. I Calories (Kcals): 511 I Carbs (Gms): 14 I Proteins (Gms): 23 I Fats (Gms): 63",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/75ce6e473f169c7c82f9212c14655c74"
+    },
+    {
+        "name": "2 Classic Non-Veg Rolls at 150 each",
+        "price": "300",
+        "desc": "70 is your lucky number and thats exactly what youll SAVE by choosing any 2 of your favourite classic non-veg wraps.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/eae147f05a1ee82676138dfe83f916b0"
+    },
+    {
+        "name": "2 Classic Rolls (1 Veg + 1 Non-Veg) at 140 each",
+        "price": "280",
+        "desc": "SAVE up to Rs. 70 and surprise your tastebuds with any 1 each of your favorite nonveg and nonveg classic wraps. There is no reason to delay here.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0b537d59ebca78217ec8007358575899"
+    },
+    {
+        "name": "Chipotle Double Egg Chatpata Wrap",
+        "price": "145",
+        "desc": "Perfectly golden-fried eggs along with crunchy onion, tangy mayo and creamy cheese are wrapped into a soft roti. The perfect balance of flavour to excite your tastebuds! I Calories (Kcals): 689 I Carbs (Gms): 58 I Proteins (Gms): 25 I Fats (Gms): 40",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f67e2730d9f2da6e608186aaf35dbf8d"
+    },
+    {
+        "name": "Double Egg Chatpata Roll",
+        "price": "99",
+        "desc": "Why settle for something ordinary when you can get a snack that is eggstra ordinary! Like this yum wrap made with golden-fried eggs, drizzled with tangy, cheesy mayo and wrapped in a soft roti. I Calories (Kcals): 817 I Carbs (Gms): 57 I Proteins (Gms): 22 I Fats (Gms): 56",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a5be439e731c63a9cb6a914aebc21579"
+    },
+    {
+        "name": "Cheese Melt Double Egg Wrap",
+        "price": "139",
+        "desc": "Golden-fried eggs are loaded with silky, creamy cheesy and wrapped in a soft roti. An overload of cheese, just like you wanted I Calories (Kcals): 605 I Carbs (Gms): 53 I Proteins (Gms): 24 I Fats (Gms): 34",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Masala Paneer Tikka Wrap",
+        "price": "179",
+        "desc": "We dont have any pun for paneer, but we do have a lot of surprises in this exciting snack that we roll into this wrap. Fresh paneer is smoked to perfection & drizzled with minty, spicy mayonnaise & wrapped in soft roti. I Calories (Kcals): 667 I Carbs (Gms): 61 I Proteins (Gms): 22 I Fats (Gms): 38",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e33b232690d715d740431f779291335f"
+    },
+    {
+        "name": "Cheese Melt Paneer Wrap",
+        "price": "195",
+        "desc": "Let the good times roll with surprises & flavour with this exciting snack Cottage cheese is seasoned with select spices, slathered with creamy, gooey cheese & snuggly wrapped in soft roti. I Calories (Kcals): 688 I Carbs (Gms): 59 I Proteins (Gms): 26 I Fats (Gms): 39",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Veg Falafel Wrap",
+        "price": "145",
+        "desc": "Get wrapped in this Mediterranean surprise! We roll up crispy falafel, made from the finest chickpeas, with classic mayo and crunchy onions in soft roti for an experience unlike ever before! I Calories (Kcals): 641 I Carbs (Gms): 77 I Proteins (Gms): 17 I Fats (Gms): 30",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cfce9a27b79131804795881dc18445d1"
+    },
+    {
+        "name": "Chipotle Potato Shots Wrap..",
+        "price": "145",
+        "desc": "Who knew potato shots could even do this. Wrapped in a paratha with crunchy onion, chipotle cheese and a drizzle of mint plus chatpata mayo makes this wrap exceptional. I Calories (Kcals): 761 I Carbs (Gms): 85 I Proteins (Gms): 14 I Fats (Gms): 41",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b8f7fb7a4326c7b2250ffdbed87209b2"
+    },
+    {
+        "name": "Cheesy Corn Salsa Wrap",
+        "price": "165",
+        "desc": "Caution: Not your average snack! Mexican inspired corn salsa with a generous serving of cheese is wrapped in a soft roti. A combination oh-so unique with flavours on a roll I Calories (Kcals): 693 I Carbs (Gms): 76 I Proteins (Gms): 13 I Fats (Gms): 38",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Cheese Melt Chicken Tikka Wrap",
+        "price": "205",
+        "desc": "Craving for something new, We got your back. We mean, we got you a wrap. Chunks of chicken cooked in tikka masala, topped with sinful cheese into a soft roti. Roll up your sleeves, its snack time I Calories (Kcals): 609 I Carbs (Gms): 57 I Proteins (Gms): 28 I Fats (Gms): 30",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/647a0408894f3ba64fb64304187e9a11"
+    },
+    {
+        "name": "Masala Chicken Tikka Wrap",
+        "price": "189",
+        "desc": "Bored of the same old flavours Excite your tastebuds with surprises that we roll into this wrap. Smokey chicken tikka taken a notch above with a generous drizzle of minty, tangy mayonnaise clubbed with crunchy onions in a soft roti. I Calories (Kcals): 626 I Carbs (Gms): 60 I Proteins (Gms): 22 I Fats (Gms): 33",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/47a783a97daed3f033d30bc3c52ed60a"
+    },
+    {
+        "name": "Egg Cheese Chicken Sausage Wrap",
+        "price": "145",
+        "desc": "When its about surprising your tastebuds, no one can beat us. This absolutely amazing wrap made with juicy sausages, omelette & lots of cheese is here to roll you up in exciting flavours & surprises. I Calories (Kcals): 815 I Carbs (Gms): 26 I Proteins (Gms): 56 I Fats (Gms): 53",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c1d55178e0092f1e058fcca61c3f3f04"
+    },
+    {
+        "name": "Malai Chicken Kebab Wrap",
+        "price": "189",
+        "desc": "Fix your mundane days & let the good times roll! Oh so creamy & exotic, this Reshmi Chicken Wrap is made with soft chicken pieces cooked in creamy, rich & decadent masala. Remember, this is not made for sharing! I Calories (Kcals): 621 I Carbs (Gms): 61 I Proteins (Gms): 21 I Fats (Gms): 33",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8f27e87af044a68aec6dff39b491f0cb"
+    },
+    {
+        "name": "Malai Chicken Cheese Melt Wrap",
+        "price": "209",
+        "desc": "Craving for something new. We got your back. We mean, we got you a wrap. Chunks of chicken cooked in reshmi masala, topped with sinful cheese into a soft roti. Roll up your sleeves, its snack time I Calories (Kcals): 643 I Carbs (Gms): 60 I Proteins (Gms): 25 I Fats (Gms): 34",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7e3d4ffaf4726aaef459b2f53dda7a81"
+    },
+    {
+        "name": "Cheese Melt Double Egg Wrap",
+        "price": "139",
+        "desc": "Golden-fried eggs are loaded with silky, creamy cheesy and wrapped in a soft roti. An overload of cheese, just like you wanted I Calories (Kcals): 605 I Carbs (Gms): 53 I Proteins (Gms): 24 I Fats (Gms): 34",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Mexicana Potato Corn Salsa Wrap",
+        "price": "209",
+        "desc": "Here potatoes dont potate, they do salsa. Dont take our word, try this amazing wrap of spicy seasoned potatoes, Mexican corn salsa and chipotle flavoured cheese that we roll with love in a wholewheat paratha. I Calories (Kcals): 829 I Carbs (Gms): 84 I Proteins (Gms): 12 I Fats (Gms): 50",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f6e01d450319e5a25d2b0874dfec0f68"
+    },
+    {
+        "name": "Cheesy Baked Pizza Wrap (Veg)",
+        "price": "209",
+        "desc": "Is it a pizza or a wrap Let your tastebuds decide. A medley of flavours with fresh bell peppers, corn, olives & jalapenos draped in pizza sauce & mozzarella cheese, wrapped in a crispy baked paratha. So, what are you waiting for Roll up your sleeves, and attack. I Calories (Kcals): 571 I Carbs (Gms): 62 I Proteins (Gms): 20 I Fats (Gms): 26",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c604cb3b3dd779aef6d2006d0641abf5"
+    },
+    {
+        "name": "Pindi Chole Paneer Wrap",
+        "price": "219",
+        "desc": "Everybody said paneer and chole cant be friends but we thought otherwise and created this. A perfect blend of soft masala paneer tikka, pindi chole drizzled in flavorful mayonnaise & wrapped in flaky laccha paratha. I Calories (Kcals): 781 I Carbs (Gms): 70 I Proteins (Gms): 18 I Fats (Gms): 48",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a348d408d6393db7fd7d6c001f99560b"
+    },
+    {
+        "name": "Tangy Falafel Corn Salsa Wrap",
+        "price": "205",
+        "desc": "A jumbo wrap with a jumbo surprise We roll crispy Mediterranean falafels, generous drizzle of cheesy corn salsa, crunchy onions in a flaky paratha. It sounds, tastes and feels extraordinary. I Calories (Kcals): 808 I Carbs (Gms): 84 I Proteins (Gms): 17 I Fats (Gms): 45",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/6331bca1add5341277ef534e13b92067"
+    },
+    {
+        "name": "Creamy Makhani Falafel Wrap",
+        "price": "205",
+        "desc": "When life gave us Makhani we did the unexpected! Added it to crispy falafel with tangy chipotle cheese and wrapped it in a wholewheat paratha is sure to roll you up in exciting flavours and surprises. Amazing, isnt it. I Calories (Kcals): 882 I Carbs (Gms): 81 I Proteins (Gms): 18 I Fats (Gms): 55",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Lebanese Falafel Veggie Wrap",
+        "price": "219",
+        "desc": "Crunchy, herbed Falafels and oven-roasted vegetables are generously drizzled with mint mayo and wrapped up in a wholewheat paratha. One bite is enough to transport you to the Mediterranean lands. I Calories (Kcals): 737 I Carbs (Gms): 78 I Proteins (Gms): 16 I Fats (Gms): 40",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9bfc3a2e9747816a292fa6ab92976e4a"
+    },
+    {
+        "name": "Smoked Butter Chicken Wrap",
+        "price": "239",
+        "desc": "For the love of butter chicken and everything thats wrapped in between! Surprise your tastebuds with this amazing wrap. I Calories (Kcals): 701 I Carbs (Gms): 65 I Proteins (Gms): 39 I Fats (Gms): 23",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e0e3b6b151ef95658999950fd4803bf0"
+    },
+    {
+        "name": "Cheesy Baked Pizza Wrap (Chicken)",
+        "price": "229",
+        "desc": "Wondering how to break the norm. Let this wrap be your inspiration. Combination of sliced salamis, bell peppers, olives, jalapenos & sweet corn draped in cheese & wrapped in a crispy baked paratha. I Calories (Kcals): 737 I Carbs (Gms): 69 I Proteins (Gms): 32 I Fats (Gms): 36",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/70c9414e7f3133fe8656f45dc99ef439"
+    },
+    {
+        "name": "Lebanese Chicken Meatball Wrap",
+        "price": "229",
+        "desc": "Spiced chicken keftas and oven-roasted vegetables are generously drizzled with mint mayo and wrapped up in a wholewheat paratha. Street food from the Mediterranean all wrapped up for you I Calories (Kcals): 689 I Carbs (Gms): 65 I Proteins (Gms): 20 I Fats (Gms): 39",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Zaikedar Mutton Bhuna Wrap",
+        "price": "299",
+        "desc": "Straight from the Faasos hall of fame. Soft and scrumptious mutton chunks cooked in bhuna flavorful masala and wrapped with an omelette in a wholewheat paratha. Order and let the good times roll. I Calories (Kcals): 870 I Carbs (Gms): 72 I Proteins (Gms): 39 I Fats (Gms): 49",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/72ba7c4a4fe9764edddf6f9e1732db0a"
+    },
+    {
+        "name": "American Smoked Sausage Wrap",
+        "price": "245",
+        "desc": "Here comes the showstopper. Smoked chicken sausage lathered in barbeque sauce, chipotle-flavoured cheese and crunchy onions, wrapped in an omelette and wholewheat paratha. Now that's wow. I Calories (Kcals): 849 I Carbs (Gms): 62 I Proteins (Gms): 28 I Fats (Gms): 55",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a5611297ee3475f13e4e977c141b1b1d"
+    },
+    {
+        "name": "Classic Hara Bhara Kebab Wrap",
+        "price": "199",
+        "desc": "Soft yet crispy hara bhara kebab with fresh mint chutney and crunchy onions in a flaky laccha paratha. Breaking the norm and how I Calories (Kcals): 757 I Carbs (Gms): 97 I Proteins (Gms): 12 I Fats (Gms): 35",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/6a78b2de930fab127e40666070ca9cb6"
+    },
+    {
+        "name": "Classic Murgh Malai Kebab Wrap",
+        "price": "269",
+        "desc": "Creamy murgh malai tikka with fresh mint chutney and crunchy onions in a flaky laccha paratha. Not your average snack I Calories (Kcals): 626 I Carbs (Gms): 62 I Proteins (Gms): 26 I Fats (Gms): 31",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7ee8d1e927f883e8c5e016f820dc957a"
+    },
+    {
+        "name": "Classic Murgh Seekh Kebab Wrap",
+        "price": "239",
+        "desc": "Succulent chicken seekh kebab with fresh mint chutney and crunchy onions in a flaky laccha paratha. Perfectly spiced in every bite I Calories (Kcals): 726 I Carbs (Gms): 80 I Proteins (Gms): 22 I Fats (Gms): 35",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/06dd98d8f262d39753f9ce55f952da60"
+    },
+    {
+        "name": "Classic Mutton Galouti Kebab Wrap",
+        "price": "289",
+        "desc": "Soft, subtly spiced mutton galouti with fresh mint chutney and crunchy onions in a flaky laccha paratha. Melt in your mouth spiced goodness. I Calories (Kcals): 690 I Carbs (Gms): 73 I Proteins (Gms): 17 I Fats (Gms): 36",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/89f222c3aa1b86296c4270226a252683"
+    },
+    {
+        "name": "Zaikedar Murgh Malai Kebab Wrap",
+        "price": "269",
+        "desc": "Murgh malai tikka tossed in a flavourful gravy, crunchy onions and fresh mint chutney wrapped in a flaky laccha paratha. The no-sharing kind of snack I Calories (Kcals): 702 I Carbs (Gms): 64 I Proteins (Gms): 26 I Fats (Gms): 38",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dad451b8005b6f92b1cbf0fe33e24eaf"
+    },
+    {
+        "name": "Zaikedar Murgh Seekh Kebab Wrap",
+        "price": "239",
+        "desc": "Murgh seekh kebab tossed in a flavourful gravy, crunchy onions and fresh mint chutney wrapped in a flaky laccha paratha. One bite & you will seek for more I Calories (Kcals): 801 I Carbs (Gms): 82 I Proteins (Gms): 23 I Fats (Gms): 43",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ebc9f0cc92e1bc5debc11905f3d54cb3"
+    },
+    {
+        "name": "Zaikedar Mutton Galouti Kebab Wrap",
+        "price": "289",
+        "desc": "Succulent mutton galouti tossed in a flavourful gravy, crunchy onions and fresh mint chutney wrapped in a flaky laccha paratha. Experience Hyderabadi flavours in every bite I Calories (Kcals): 765 I Carbs (Gms): 76 I Proteins (Gms): 18 I Fats (Gms): 43",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bcde0c8a5326c08a95f7eb7878b07acb"
+    },
+    {
+        "name": "Masala Paneer Tikka Wholewheat Wrap",
+        "price": "194",
+        "desc": "We dont have any pun for paneer, but we do have a lot of surprises in this exciting snack that we roll into this wrap. Fresh paneer is smoked to perfection & drizzled with minty, spicy mayonnaise & wrapped in soft roti. I Calories (Kcals): 616 I Carbs (Gms): 52 I Proteins (Gms): 22 I Fats (Gms): 36",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Pindi Chole Wholewheat Wrap",
+        "price": "124",
+        "desc": "No one believed us when we said chole can be even more exciting. So we created a wrap that has a tangy burst of chole with flavorful Indian spices and crunchy onions, wrapped in a soft roti. Try it & get surprised. I Calories (Kcals): 460 I Carbs (Gms): 5 I Proteins (Gms): 23 I Fats (Gms): 61",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/4f085b049724cb7eb3b77235a0fb1f1e"
+    },
+    {
+        "name": "Masala Chicken Tikka Wholewheat Wrap",
+        "price": "199",
+        "desc": "Bored of the same old flavours Excite your taste buds with surprises that we roll into this wrap. Smokey chicken tikka taken a notch above with a generous drizzle of minty, tangy mayonnaise clubbed with crunchy onions in a soft roti. I Calories (Kcals): 575 I Carbs (Gms): 51 I Proteins (Gms): 22 I Fats (Gms): 31",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/577c8207e32e22b8cf1374391c95b22b"
+    },
+    {
+        "name": "Malai Chicken Kebab Wholewheat Wrap",
+        "price": "204",
+        "desc": "Fix your mundane days & let the good times roll. Oh so creamy & exotic, this Reshmi Chicken Wrap is made with soft chicken pieces cooked in creamy, rich & decadent masala. Remember, this is not made for sharing. I Calories (Kcals): 570 I Carbs (Gms): 52 I Proteins (Gms): 21 I Fats (Gms): 31",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a5d81541dbc174847cdaf44df25ab4e8"
+    },
+    {
+        "name": "Rajma Masala Rice Bowl (Regular)",
+        "price": "185",
+        "desc": "This humble dish just became more delicous! Choose your favourite from Spicy Hyderabadi Rice or Classic Flavourful Rice with slow-cooked rajma in a delicious gravy I Calories (Kcals): 553 I Carbs (Gms): 92 I Proteins (Gms): 10 I Fats (Gms): 16",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0a78c425bfbf6e438a3c225e2c33bf1a"
+    },
+    {
+        "name": "Corn Salsa Rice Feast (Regular)",
+        "price": "179",
+        "desc": "Let your taste buds fall in love with this unique India-meet-Mexico bowl made using delicious corn kernels with tangy salsa sauce served over a bed of Spicy Hyderabadi Rice or Classic Flavourful Rice I Calories (Kcals): 542 I Carbs (Gms): 102 I Proteins (Gms): 11 I Fats (Gms): 11",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d56b4174b0f8326acfb1a247f1f98be3"
+    },
+    {
+        "name": "Pindi Chole Paneer Rice Feast (Regular)",
+        "price": "229",
+        "desc": "Giving an all-time favourite a delicious makeover to make your meal exciting. Your two favourite flavours merged together making the perfect jam-packed combo of Paneer Tikka and Pindi Chole cooked to perfection is served with a portion of either Spicy Hyderabadi Rice or Classic Flavourful Rice",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/64ca366c66f8d3ab6b89eb74ee6de2e3"
+    },
+    {
+        "name": "Veg Rice Bowl (Jumbo)",
+        "price": "255",
+        "desc": "A large-sized bowl meal with a jaw-dropping, awe-inspiring flavours! Spicy Hyderabadi Rice or Classic Flavourful Rice is topped with either flavourful chole or spicy paneer tikka masala I Calories (Kcals): 999 I Carbs (Gms): 141 I Proteins (Gms): 24 I Fats (Gms): 38",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e4b0298c74c5bec945ca5fc2c31e0fc5"
+    },
+    {
+        "name": "Rajma Masala Rice Bowl (Jumbo)",
+        "price": "219",
+        "desc": "Amp up your mundane life with this delicious meal! A wholesome bowl of all-time favourite rajma slow-cooked in subtly spiced gravy and served with a portion of Spicy Hyderabadi Rice or Classic Flavourful Rice I Calories (Kcals): 885 I Carbs (Gms): 142 I Proteins (Gms): 16 I Fats (Gms): 29",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/563e8ec6f6b1a1137126ff789bfd17fd"
+    },
+    {
+        "name": "Egg Rice Bowl (Regular)",
+        "price": "169",
+        "desc": "This bowl is packed with delicious surprises, here to add eggstra flavour to your life. Pick your favourite from, Spicy Hyderabadi Rice or Classic Flavourful Rice with subtly-spiced gravy and a golden-fried omelette I Calories (Kcals): 581 I Carbs (Gms): 86 I Proteins (Gms): 16 I Fats (Gms): 20",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/255c81432a3932ed52c7d4d47c5e1fcc"
+    },
+    {
+        "name": "Malai Chicken Rice Feast (Regular)",
+        "price": "239",
+        "desc": "Everyone loves a malai chicken, with creamy, delicious sauce and tender chicken and this is exactly that! Served over a bed of Spicy Hyderabadi Rice or Classic Flavourful Rice I Calories (Kcals): 581 I Carbs (Gms): 88 I Proteins (Gms): 27 I Fats (Gms): 14",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0c19ecf04758989f6a8450d4f8930bd2"
+    },
+    {
+        "name": "Malai Chicken & Chicken Tikka Rice Feast (Regular)",
+        "price": "255",
+        "desc": "Take a few steps away from the same old and experience it in a new format! Your favourites all in one dish - chicken tikka and malai chicken served with Spicy Hyderabadi Rice or Classic Flavourful Rice I Calories (Kcals): 578 I Carbs (Gms): 89 I Proteins (Gms): 22 I Fats (Gms): 16",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ac1f3fc0bb8dbaa16ce6a31c4613bf4e"
+    },
+    {
+        "name": "Chicken Tikka Rice Feast (Regular)",
+        "price": "239",
+        "desc": "Your favourite meal got the makeover it deserves. Succulent boneless chicken tikka in a rich gravy and served over a bed of Spicy Hyderabadi Rice or Classic Flavourful Rice I Calories (Kcals): 576 I Carbs (Gms): 90 I Proteins (Gms): 17 I Fats (Gms): 18",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d5a4db6d96001abb38890780d5c7aebb"
+    },
+    {
+        "name": "Chicken Rice Bowl (Jumbo)",
+        "price": "289",
+        "desc": "Take a few steps away from the same old and experience the new! Pick your favourite from chicken tikka, bhuna chicken or reshmi chicken kebab served with Spicy Hyderabadi Rice or Classic Flavourful Rice I Calories (Kcals): 928 I Carbs (Gms): 137 I Proteins (Gms): 28 I Fats (Gms): 31",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f910f2ae7753fd12b932cf15ddbc0812"
+    },
+    {
+        "name": "Paneer Signature Rice Bowl (Regular)",
+        "price": "239",
+        "desc": "Let your taste buds fall in love with this unique bowl made using out-of-the-world paneer tikka chunks served over a bed of Spicy Hyderabadi Rice or Classic Flavourful Rice I Calories (Kcals): 657 I Carbs (Gms): 92 I Proteins (Gms): 15 I Fats (Gms): 23",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e2288bd3c1252f7226715fb75fd36132"
+    },
+    {
+        "name": "Pindi Chole Signature Rice Bowl (Regular)",
+        "price": "209",
+        "desc": "Giving an all-time favourite a delicious makeover to make your meal exciting! Chole cooked to perfection in a spiced gravy is served with a portion of either Spicy Hyderabadi Rice or Classic Flavourful Rice I Calories (Kcals): 586 I Carbs (Gms): 99 I Proteins (Gms): 13 I Fats (Gms): 13",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/28be8e15b6696e4f304b7e6a87694799"
+    },
+    {
+        "name": "Paneer Signature Rice Bowl (Jumbo)",
+        "price": "295",
+        "desc": "Here to satisfy those big cravings, soft paneer tikka chunks cooked in spiced onion-tomato gravy is served over a bed of Spicy Hyderabadi rice or Classic Flavourful Rice. I Calories (Kcals): 1057 I Carbs (Gms): 141 I Proteins (Gms): 25 I Fats (Gms): 41",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f5d92b10caeb6d58b133dd874caae454"
+    },
+    {
+        "name": "Royal Veg Rice Bowl (Jumbo)",
+        "price": "279",
+        "desc": "An absolutely lovely combination of home-style chole, spiced paneer tikka and corn salsa served with Spicy Hyderabadi Rice or Classic Flavourful Rice. I Calories (Kcals): 1018 I Carbs (Gms): 156 I Proteins (Gms): 21 I Fats (Gms): 36",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fc0d136bb3851f9ec54b58a1f0767196"
+    },
+    {
+        "name": "Pindi Chole Signature Rice Bowl (Jumbo)",
+        "price": "265",
+        "desc": "A large-sized bowl of zesty chole cooked in spiced onion-tomato gravy till perfectly soft is served over a bed of Spicy Hyderabadi rice or Classic Flavourful Rice. I Calories (Kcals): 924 I Carbs (Gms): 154 I Proteins (Gms): 22 I Fats (Gms): 23",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/98d82280fadaccb94535cca4688ffe3b"
+    },
+    {
+        "name": "Smoked Butter Chicken Rice Bowl (Regular)",
+        "price": "259",
+        "desc": "Everyone loves a good butter chicken and this one is made with added excitement to surprise your tastebuds! Served over a bed of Spicy Hyderabadi Rice or Classic Flavourful Rice I Calories (Kcals): 745 I Carbs (Gms): 118 I Proteins (Gms): 23 I Fats (Gms): 17",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0a47e5db0bbcc864b376fe81dce41780"
+    },
+    {
+        "name": "Mutton Bhuna Rice Bowl (Regular)",
+        "price": "299",
+        "desc": "A treasure trove of unique Indian flavours waiting to surprise your palate! Spicy Hyderabadi Rice or Classic Flavourful Rice with melt-in-your-mouth boneless pieces of bhuna mutton cooked in a spicy Indian gravy. I Calories (Kcals): 597 I Carbs (Gms): 97 I Proteins (Gms): 23 I Fats (Gms): 13",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc22b20c77e393551fa136e6962f78d6"
+    },
+    {
+        "name": "Chicken Signature Rice Bowl (Regular)",
+        "price": "249",
+        "desc": "Your favourite meal got the makeover it deserves. Succulent boneless chicken cooked in a rich gravy and served over a bed of Spicy Hyderabadi Rice or Classic Flavourful Rice I Calories (Kcals): 620 I Carbs (Gms): 89 I Proteins (Gms): 17 I Fats (Gms): 19",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e9f5e2db195d9daed7f2daac3feba972"
+    },
+    {
+        "name": "Royal Chicken Rice Bowl (Jumbo)",
+        "price": "349",
+        "desc": "Breaking the norm was never this delicious! Succulent chicken with roasted Indian spices, chicken tikka & chicken meatballs served on a bed of Spicy Hyderabadi Rice or Classic Flavourful Rice & topped with a fluffy omelette I Calories (Kcals): 1127 I Carbs (Gms): 140 I Proteins (Gms): 38 I Fats (Gms): 47",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/25728ac974fe889d1a88f469c5bc436c"
+    },
+    {
+        "name": "Chicken Signature Rice Bowl (Jumbo)",
+        "price": "315",
+        "desc": "Your favourite meal got the makeover it deserves! Succulent boneless chicken cooked in a rich gravy and served over a bed of Spicy Hyderabadi Rice or Classic Flavourful Rice I Calories (Kcals): 987 I Carbs (Gms): 137 I Proteins (Gms): 29 I Fats (Gms): 33",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e9f5e2db195d9daed7f2daac3feba972"
+    },
+    {
+        "name": "Smoked Butter Chicken Rice Bowl (Jumbo)",
+        "price": "325",
+        "desc": "Good old Butter Chicken but add a little bit of Faasos flair! Choose from a bowl of Spicy Hyderabadi Rice or Classic Flavourful Rice with our flavourful smoked butter chicken I Calories (Kcals): 970 I Carbs (Gms): 175 I Proteins (Gms): 33 I Fats (Gms): 12",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0a47e5db0bbcc864b376fe81dce41780"
+    },
+    {
+        "name": "Hara Bhara Kebab Signature Rice Feast (Regular)",
+        "price": "249",
+        "desc": "Soft Hara Bhara kebabs and bhuna masala gravy served over a bed of spiced Hyderabadi or Classic flavourful rice. I Calories (Kcals): 697 I Carbs (Gms): 132 I Proteins (Gms): 13 I Fats (Gms): 14",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/6e0d746699532ee7440969fc7389181d"
+    },
+    {
+        "name": "Murgh Malai Kebab Signature Rice Feast (Regular)",
+        "price": "299",
+        "desc": "Creamy murgh malai tikka and bhuna gravy served over a bed of spiced Hyderabadi or Classic flavourful rice. No boring flavours here I Calories (Kcals): 602 I Carbs (Gms): 96 I Proteins (Gms): 26 I Fats (Gms): 13",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bb55e1a53ff0caf12e1883d50ba059ec"
+    },
+    {
+        "name": "Murgh Seekh Kebab Signature Rice Feast (Regular)",
+        "price": "285",
+        "desc": "Succulent murgh seekh kebab and onion tomato gravy served over a bed of spiced Hyderabadi or Classic flavourful rice. A bowl of big bold flavours I Calories (Kcals): 702 I Carbs (Gms): 115 I Proteins (Gms): 22 I Fats (Gms): 18",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/83a059ceb238499c3f9f0403dda56a44"
+    },
+    {
+        "name": "Mutton Galouti Kebab Signature Rice Feast (Regular)",
+        "price": "325",
+        "desc": "Melt in-the-mouth mutton galouti kebab and bhuna gravy served over a spiced Hyderabadi or Classic flavourful rice. An exciting solution to all your Hyderabadi cravings I Calories (Kcals): 666 I Carbs (Gms): 108 I Proteins (Gms): 18 I Fats (Gms): 19",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "(Doubles) Wedges Combo",
+        "price": "169",
+        "desc": "SAVE Rs. 29 and indulge in this combo of 2 portions of Wedges. Cause when is one ever enough.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d430a59852f1b544df688e2dbc674335"
+    },
+    {
+        "name": "Fries & Thums Up Combo",
+        "price": "109",
+        "desc": "SAVE Rs. 16 and indulge in this combo of 1 portion of Fries and 1 bottle of Thums Up (250 ml). This is what makes the perfect duo",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/76bd1ad9b6e21db814f7ab0bbaf5e877"
+    },
+    {
+        "name": "Wedges & Choco Lava Combo",
+        "price": "179",
+        "desc": "SAVE Rs 19 with this combo of 1 Wedges + 1 Choco Lava. The perfect combination of sweet & savory to hit all the right spots.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/99ce68aeaf1292889f3685d94baa5cfe"
+    },
+    {
+        "name": "Potato Wedges and Thums up",
+        "price": "115",
+        "desc": "Potato Wedges (Medium) and Thums up (250ml)",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/e475cd4641b4a0c2a864a3327cc13ec5"
+    },
+    {
+        "name": "French Fries",
+        "price": "109",
+        "desc": "Just one can never be enough! Golden fried crunchy Fries that are salted to perfection.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fc04fd7f94bbb86b1f7dd3479214d8fe"
+    },
+    {
+        "name": "Teekha Chaska French Fries",
+        "price": "119",
+        "desc": "A Faasos favourite, Teekha Chaska is generously sprinkled over freshly fried, golden french fries for the ultimate snack. You could also make it a meal, we dont judge",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/01c2b6e25704a3af11716d4fe46f1ff2"
+    },
+    {
+        "name": "Peri Peri Cheese Wedges",
+        "price": "129",
+        "desc": "A spiced treat, unlike any other, herbed potato wedges, is served with a generous drizzle of peri peri cheese sauce. Dig in",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/45ddcf8b12315a0693252b0194d742a8"
+    },
+    {
+        "name": "Chipotle Cheese Wedges (Newly Launched)",
+        "price": "129",
+        "desc": "Thick-cut potato wedges are drizzled with tangy chipotle-flavoured cheese sauce to make all your snacking dreams come true",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/608b642f216eba680e9c5f5a47cbbfe8"
+    },
+    {
+        "name": "Potato Wedges (Medium)",
+        "price": "99",
+        "desc": "When you dont know what to eat next we suggest keep it simple and call for the wedges.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0124f146ebd7e4b6400ee82c82c28e20"
+    },
+    {
+        "name": "Potato Chilli Shots with Mayo Dip",
+        "price": "99",
+        "desc": "Crispy and spiced potato shots served with a cheesy mayonnaise dip to tantalize your tastebuds.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9e86c8806c6d30ead54f5ed73d044bb3"
+    },
+    {
+        "name": "Falafel Nuggets with Mayo Dip",
+        "price": "99",
+        "desc": "Mediterranean inspired crispy falafel made from the finest soaked chickpeas and spices, served with a cheesy mayonnaise dip.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Potato Wedges (Small)",
+        "price": "69",
+        "desc": "When you don't know what to eat next, keep it simple! Indulge in our delicious potato wedges sprinkled with Teekha Chaska for that perfect flavour punch.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/251152c7359f99d9561fbaf1dbd21582"
+    },
+    {
+        "name": "DIY 4 Sides Combo",
+        "price": "365",
+        "desc": "Savings of upto 51 and a hell lot of fun. Get 2 portions of fries and 2 portion of wedges. Just the side-kick stealing the limelight.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b7b740cff6bf22408aba86cb6f09dd66"
+    },
+    {
+        "name": "Veg-Non Veg Sides Platter",
+        "price": "299",
+        "desc": "SAVE BIG with this late night combo of dreams with all the munchies you would want, 1 Wedges , 1 Chili Shots , 1 Meatballs",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b19e806adcbcd970e18bfb7c1692a203"
+    },
+    {
+        "name": "Cheesy Chicken Meatballs",
+        "price": "129",
+        "desc": "(100% Safely Cooked Chicken) Juicy minced chicken meatballs, served with a cheesy mayonnaise dip - A no-brainer for snack cravings!",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/265f8e0f7c900c5925865f1b1ae3244d"
+    },
+    {
+        "name": "Teekha Chaska Sausages",
+        "price": "129",
+        "desc": "Succulent chicken sausages, cut into small bite sized pieces is sprinkled with our signature Teekha Chaska and served with a mayonnaise dip.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/649e7d3664bc1bd5e33ad50c8b91e60d"
+    },
+    {
+        "name": "Coca-Cola Bottle (475 ML)",
+        "price": "57",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ydqqpussdhedmr5edm2b"
+    },
+    {
+        "name": "SWIG Green Apple",
+        "price": "59",
+        "desc": "Aerated drink flavored with the mouth-puckering green apple. Sure to refresh you completely!",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/0b76e6413a00aa350ea89779bdaaa370"
+    },
+    {
+        "name": "SWIG Jeera Masala Soda",
+        "price": "59",
+        "desc": "Aerated drink with the added zing of jeera and masala. A perfect accompaniment to your meal.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/25b016a4f3021dad1923cf8d39f2378a"
+    },
+    {
+        "name": "Hazelnut Cold Coffee",
+        "price": "209",
+        "desc": "\"(Sweet - SLAY Signature Espresso Shot + Chilled Milk + Vanilla Ice Cream + Hazelnut Flavour) A Classic flavour combo made with refreshing Cold Coffee and Hazelnut syrup. Does it get any better\"",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/9227c7c78038e8f2f1bb1b61edf6ac71"
+    },
+    {
+        "name": "Classic Cold Coffee",
+        "price": "189",
+        "desc": "\"(Sweet - SLAY Signature Espresso Shot + Chilled Milk + Vanilla Ice Cream) The best cold coffee -over 4mn cups sold. Our all time favourite\"",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/enmzdld4yqznma4v9yn5"
+    },
+    {
+        "name": "Iced Choco Hazelnut Cold Coffee",
+        "price": "209",
+        "desc": "\"(Sweet - SLAY Signature Espresso Shot + Chilled Milk + Vanilla Ice Cream + Hazelnut Flavour + Chocolate Sauce) This Cold Coffee got a gourmet twist with the goodness of Chocolate & Hazelnut.\"",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/da7f2996ae93ed1e7952eb43d05a0e90"
+    },
+    {
+        "name": "Cappuccino",
+        "price": "129",
+        "desc": "(Unsweetened -SLAY Signature Double Espresso Shot + Steamed Milk). The all time classic comfort coffee.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8d170fda1f865b2daf04b18d5ae324f3"
+    },
+    {
+        "name": "The Cold Wave (Bold Cold Coffee)",
+        "price": "149",
+        "desc": "Sweet- The Classic Cold Coffee now brewed with SLAY-X (Indias Strongest Coffee). Your favourite cuppa just got a lot stronger. SLAY-X Espresso Shot + Chilled Milk + Blended Vanilla Ice Cream",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/78f19e8384acd6264e3bec61fc7064e1"
+    },
+    {
+        "name": "Latte Love",
+        "price": "119",
+        "desc": "\"(Unsweetened - SLAY Signature Espresso Shot + Steamed Milk) Who are those who say one love is all you need. Cause we can never get enough with one of this.\"",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Mango Cheesecake",
+        "price": "179",
+        "desc": "(Eggless) This New York Style Mango Cheesecake, made with premium quality cream cheese and a crust infused with delicious mango flavor, is every dessert lovers delight!",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/y3km2jhdlvswzto0kfmu"
+    },
+    {
+        "name": "Hazelnut Brownie",
+        "price": "109",
+        "desc": "(Eggless) Gooey & fudgy on the inside and nutty on the outside. Our melt-in-the-mouth Single Nutty Hazelnut Brownie will give you serious dessert goals.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/spxinyylrinj1isoyxwp"
+    },
+    {
+        "name": "Choco Lava Cake",
+        "price": "99",
+        "desc": "(Eggless) A perfect match of Chocolate Cake on the outside and molten Chocolate on the inside, our Choco Lava cake is every dessert lovers dream come true.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/y0k06l8kleciyknc1fcn"
+    },
+    {
+        "name": "Chocolate Indulgence Brownie",
+        "price": "119",
+        "desc": "(Eggless) Indulge in richly decadent Indulgence brownie crafted with love & topped with bittersweet chocolate that provides ultra-rich chocolate experience.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/2181e009a59d1b9edbabda8392510c7a"
+    },
+    {
+        "name": "Rich Red Velvet Pastry",
+        "price": "145",
+        "desc": "Rich and moist Red Velvet cake layered with fresh cream cheese makes our Red Velvet pastry difficult to share. Youll think twice too.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/sbnpzyxa5waecm5yyt45"
+    },
+    {
+        "name": "Chocolate Truffle Pastry",
+        "price": "145",
+        "desc": "(Eggless) Layers of soft chocolate sponge and dense but silky-smooth chocolate ganache make this cake a decadent celebration.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8fcab206e56543fd1e40bd13262e1896"
+    },
+    {
+        "name": "Chocolate Lava Cake (Box Of 2)",
+        "price": "189",
+        "desc": "(Eggless) A perfect match between Chocolate Cake on the outside and melted gooey chocolate on the inside is an irresistible indulgence for 2.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7b6851b1baec7000d8619905dded71a7"
+    },
+    {
+        "name": "Fudgy Brownie Combo (Box of 2)",
+        "price": "209",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zdngkazwumnbkkfvu6ej"
+    },
+    {
+        "name": "Hazelnut Brownie (Box of 2)",
+        "price": "209",
+        "desc": "(Eggless) Gooey & fudgy on the inside, nutty on the outside and amazingly delicious all over! Our melt-in-the-mouth Nutty Chocolate Brownie will give you serious dessert goals.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/5183c89878a5d3208c0328796a86c2af"
+    },
+    {
+        "name": "Chocolate Coated Cookie Box",
+        "price": "145",
+        "desc": "Coated with love and filled with lots of chocolate. Thats what our chocolate coated cookies are about!",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cpperieodjm0dskmbprd"
+    },
+    {
+        "name": "New York Cheesecake",
+        "price": "179",
+        "desc": "Dense, creamy & smooth Philadelphia cream cheese paired with a crust made with crackers & butter with a hint of ginger ,this nifty New York Cheesecake is indulgence redefined (With egg).",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/8fa961c5367f5494df85a6fc7087364b"
+    },
+    {
+        "name": "Death by Chocolate Cake Jar",
+        "price": "139",
+        "desc": "Dont take the name literally, but our Death By Chocolate Jar is a chocolate heaven sure to transport you to another level.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp"
+    },
+    {
+        "name": "Mocha Coffee Jar",
+        "price": "139",
+        "desc": "Feel like having coffee & dessert at the same time. Well, we have got you covered with our delicious Mocha jar made with richness of chocolate and goodness of coffee.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dd7589faea646af3038246206a0c1342"
+    },
+    {
+        "name": "Chocolate Muffin",
+        "price": "99",
+        "desc": "This delicious Chocolate Muffin made with chocolate chips and rich ganache filling is what chocolatey dreams are made of.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f7ra5qxsgxgjbh02wfyx"
+    },
+    {
+        "name": "Hazelnut Muffin",
+        "price": "99",
+        "desc": "A nutty affair you wont want to miss out on. Rich chocolatey muffin with delicious Nutella filling.",
+        "img": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/suallv7kqwhkieqizjp6"
+    }
+]
