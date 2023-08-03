@@ -2,6 +2,7 @@ import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchMenu } from "../redux/slices/menu";
 import { addToCart, applyCoupon, removeFromCart } from "../redux/slices/cart";
+import axios from "axios";
 
 export default function Restraunts() {
   const dispatch = useDispatch();
@@ -22,6 +23,11 @@ export default function Restraunts() {
       minOrder: 249,
     },
   ];
+
+  const handlePay = async() => {
+    const {data} = await axios.post("https://server-cs.codingschool.org.in/payment/checkout",cart);
+    window.location.assign(data.url);
+  }
   return (
     <div
       style={{
@@ -89,6 +95,7 @@ export default function Restraunts() {
           );
         })}
         <div>Total: {cart.discountedPrice}</div>
+        <button onClick={handlePay}>Pay now</button>
       </div>
     </div>
   );
